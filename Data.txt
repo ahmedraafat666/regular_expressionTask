@@ -1,0 +1,10 @@
+Data = '''Ahmed Raafat 01023456789 ahmed@gmail.com
+mohamed raafat 01234567891 mohamed@gmail.com
+malik raafat 01003280359 malik@gmail.com
+boody gamal 01097433304 boody@gmail.com
+mohamed ashraf 01123456789 mo@gmail.com
+ali nour 01020622418 ali@gmail.com
+ahmed yasser 01234567882 AhmedYass@gmail.com
+ziad ashraf 01156567882 ziad@gmail.com
+youssef ashraf 01297433304 Yousef@gmail.com
+'''
